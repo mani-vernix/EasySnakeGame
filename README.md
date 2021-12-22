@@ -1,10 +1,10 @@
 <h1 align="center">
-    <a href="easysnakegame.herokuapp.com" target="_blank">🐍 EasySnakeGame</a>
+    <a href="https://easysnakegame.herokuapp.com" target="_blank">🐍 EasySnakeGame</a>
 </h1>
 
 
 > **An Simple Snake Game To Spend Time With Game**<br>
-*[View Demo](easysnakegame.herokuapp.com)*
+*[View Demo](https://easysnakegame.herokuapp.com)*
 
 
 
